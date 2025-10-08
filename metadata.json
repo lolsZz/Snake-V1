@@ -1,0 +1,5 @@
+{
+  "name": "Chaos-Emergent Snake Game",
+  "description": "A classic snake game instrumented with chaos theory mechanics. This simulation demonstrates principles like sensitive dependence on initial conditions, strange attractors, and bifurcation through non-linear speed, biased food spawning, and momentum-based turning. The application includes real-time data collection and visualization tools to analyze the emergent chaotic behavior.",
+  "requestFramePermissions": []
+}
